@@ -11,11 +11,6 @@ https://dash.plot.ly/getting-started
 - App: https://dash-gallery.plotly.host/dash-oil-and-gas/
 - Code: https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-oil-and-gas
 
-
-**New York Oil and Gas**
-- App: https://dash-gallery.plotly.host/dash-oil-and-gas/
-- Code: https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-oil-and-gas
-
-**ANIMAL STUDY BROWSER**
+**Animal Study Browser**
 - App: https://dash-gallery.plotly.host/dash-study-browser/
 - Code: https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-study-browser
